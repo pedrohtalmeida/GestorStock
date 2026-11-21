@@ -8,6 +8,6 @@ Sistema de gestão de stock e inventário desenvolvido em equipa, com base de da
 * **Qualidade & Testes:** Testes unitários automatizados com JUnit (`src`).
 
 ## Tecnologias
-* **Java** & **Gradle** (`build.gradle.kts`)[cite: 15]
-* **SQL** (`schema.sql`)[cite: 15]
-* **JUnit** (testes)[cite: 15]
+* **Java** & **Gradle** (`build.gradle.kts`)
+* **SQL** (`schema.sql`)
+* **JUnit** (testes)
