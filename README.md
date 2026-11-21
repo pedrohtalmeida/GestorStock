@@ -4,8 +4,8 @@ Sistema de gestão de stock e inventário desenvolvido em equipa, com base de da
 
 ## Funcionalidades e Estrutura
 * **Gestão de Inventário & Dashboard:** Controlo e atualização de quantidades e registos de stock (`Dashboard.java`).
-* **Base de Dados:** Definição e gestão do esquema de dados (`schema.sql`)[cite: 15].
-* **Qualidade & Testes:** Testes unitários automatizados com JUnit (`src`)[cite: 15].
+* **Base de Dados:** Definição e gestão do esquema de dados (`schema.sql`).
+* **Qualidade & Testes:** Testes unitários automatizados com JUnit (`src`).
 
 ## Tecnologias
 * **Java** & **Gradle** (`build.gradle.kts`)[cite: 15]
